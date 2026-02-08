@@ -30,6 +30,16 @@ This frontend is designed to be visually appealing, smooth to navigate, and high
 
 ---
 
+## 🎯 UI/UX Highlights
+
+- Fully responsive layouts for different devices  
+- Smooth navigation between pages using Flutter’s Navigator  
+- Interactive forms with validation  
+- Clean and modern design tailored for college students  
+- Focused on usability: minimal clicks to access key features
+
+---
+
 ## 📂 Screenshots
 
 ### 🔐 Welcome Page
@@ -80,13 +90,5 @@ This frontend is designed to be visually appealing, smooth to navigate, and high
 
 ---
 
-## 🎯 UI/UX Highlights
 
-- Fully responsive layouts for different devices  
-- Smooth navigation between pages using Flutter’s Navigator  
-- Interactive forms with validation  
-- Clean and modern design tailored for college students  
-- Focused on usability: minimal clicks to access key features  
-
----
 
